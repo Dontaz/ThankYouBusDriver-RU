@@ -1,0 +1,22 @@
+FailureReset	Hold on, gotta take care of that last thing...
+Start	Okay rookie, driving a bus is like riding a bike, but with more lives and tax dollars at stake!
+ControlsInfo	"Drive the bus using <action name=""IA_Gas""/> and <action name=""IA_Break""/> to move, and <action name=""IA_Steering"" Idx=""0""/><action name=""IA_Steering"" Idx=""1""/> to steer"
+DirectToFirstStop	Head right to pick up your first passengers
+FirstPickup	Wonderful! Now take these fine folks to the Windmill
+ExplainMap	"If you're lost you can check the Map using <action name=""IA_Map""/>"
+ExplainTY_A	Your first Thank Yous!
+ExplainTY_B	Happy passengers give Thank Yous at their destination
+ExplainTY_C	These Thank Yous add to your Timer
+ExplainRules_A	Passengers get upset when someone breaks the rules
+ExplainRules_B	And upset passengers won't want to Thank You. Keep an eye on the Thank-o-meter!
+ExplainRules_C	"You can check on your passengers using <action name=""IA_TurnAround""/>"
+ExplainRules_D	"Use <action name=""IA_MoveActionArm""/> to point at an offender, and <action name=""IA_Smack""/> to make them stop"
+ExplainRules_E	"You can also toss them out with <action name=""IA_ThrowOut""/>, if they keep misbehaving"
+ExplainRules_F	"Use <action name=""IA_TurnAround""/> to face back forward."
+ExplainShop_A	Yeah... that guy gives you weird items sometimes.
+ExplainShop_B	Could be useful. Though they're always gone the next day.
+ExplainStatue_A	See that statue?
+ExplainStatue_B	That's the world's greatest Bus Driver! He got 1499 Thank Yous!
+ExplainStatue_C	Are you a bad enough dude to replace him?
+Completed_A	Well you can figure out the rest...
+Completed_B	Be back tomorrow for your first full shift!
